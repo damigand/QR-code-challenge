@@ -1,6 +1,8 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the
+[QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor
+challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -17,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
@@ -35,11 +37,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I didn't learn anything specifically, but it took me a minute to get the image's size right. It took a bit of trial and error because I don't have that sharp eye with dimensions yet.
+I didn't learn anything specifically, but it took me a minute to get the image's size right. It took a bit of trial and error because I
+don't have that sharp eye with dimensions yet.
 
 ### Continued development
 
-If there was something I had to work on, I would say css variables and font-sizes. This specific challenge had hard-coded font-sizes, but if it wasn't for the style guide, I'd be completely lost on what css variables I need.
+If there was something I had to work on, I would say css variables and font-sizes. This specific challenge had hard-coded font-sizes, but if
+it wasn't for the style guide, I'd be completely lost on what css variables I need.
 
 ## Author
 
