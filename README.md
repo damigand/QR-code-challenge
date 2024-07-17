@@ -43,5 +43,5 @@ If there was something I had to work on, I would say css variables and font-size
 
 ## Author
 
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/damigand)
--   GitHub - [@damigand](https://www.github.com/damigand)
+-   Frontend Mentor - [damigand](https://www.frontendmentor.io/profile/damigand)
+-   GitHub - [damigand](https://www.github.com/damigand)
